@@ -1,1 +1,1 @@
-Here I will upload simple projects related to learning HTML, CSS and web development in general. (Most of the content here was made while studying with the book "")
+Here I will upload simple projects related to learning HTML, CSS and web development in general. (Most of the content here was made while studying with the book "Creating a Website; The Missing Manual - The Book that should have been in the Box (4th Ed.) - O'Reilly")
